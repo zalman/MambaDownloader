@@ -1,4 +1,4 @@
-![Mamba](http://194.186.171.75/images/default2/mamba/logo.gif)
+![Mamba](http://images.wambacdn.net/images/default2/default/ui-userbar/logo.png)
 
 This userscript adds a download button to image viewer.
 
